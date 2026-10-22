@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20[Nur%20Aditya]%20👋&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -23,10 +23,10 @@
 
 ```typescript
 const developer = {
-  name:       "[Your Name]",
-  nickname:   "[Your Nickname]",
-  location:   "📍 [Your City], Indonesia",
-  bio:        "[Short bio about you — what you do, your passion, etc.]",
+  name:       "Nur Aditya Saputra",
+  nickname:   "Adit",
+  location:   "📍 Surabaya, Indonesia",
+  bio:        "Passionate web developer who loves building web apps, experimenting with new technologies, and turning ideas into code 🚀",
   currentFocus: "Building awesome web apps 🚀",
   funFact:    "I drink ☕ and turn it into code",
 
@@ -122,7 +122,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
 </div>
 
 ---
@@ -131,20 +131,14 @@ const developer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/aditiutt_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:nuradityasptra10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<a href="(https://aditya-portofolio-silk.vercel.app/)" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>

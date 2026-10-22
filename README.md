@@ -90,7 +90,7 @@ const developer = {
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NurAditya-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurAditya-dev&theme=github_dark" />
 
 </div>
 

@@ -16,8 +16,6 @@
 <br/>
 
 <!-- PROFILE VIEWS BADGE -->
-<img src="https://komarev.com/ghpvc/?username=NurAditya-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/NurAditya-dev?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
 
 </div>

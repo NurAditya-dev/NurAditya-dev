@@ -96,13 +96,6 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=NurAditya-
-</div>
-
----
 
 ## 📫 Connect With Me
 

@@ -11,7 +11,7 @@
 <br/>
 
 <!-- PROFILE VIEWS BADGE -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=NurAditya-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
 
@@ -100,16 +100,6 @@ const developer = {
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
 
 </div>
 
@@ -118,7 +108,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NurAditya-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
@@ -127,20 +117,14 @@ const developer = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/aditiutt_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:nuradityasptra10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<a href="https://aditya-portofolio-silk.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>

@@ -3,6 +3,11 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20Adit%20👋&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
+<!-- PROFILE AVATAR -->
+<img src="https://avatars.githubusercontent.com/u/341840369?v=4" width="120px" style="border-radius: 50%;" alt="Adit's Avatar" />
+
+<br/>
+
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast;Python+Developer+%F0%9F%90%8D;React+%2F+Next.js+Builder;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />

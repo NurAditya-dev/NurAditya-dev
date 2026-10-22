@@ -13,7 +13,7 @@
 <!-- PROFILE VIEWS BADGE -->
 <img src="https://komarev.com/ghpvc/?username=NurAditya-dev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/followers/NurAditya-dev?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
 
 </div>
 
@@ -75,19 +75,19 @@ const developer = {
 <div align="center">
 
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurAditya-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAditya-dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=NurAditya-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NurAditya-dev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" />
 
 </div>
 
@@ -99,6 +99,16 @@ const developer = {
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -117,6 +127,9 @@ const developer = {
 
 <div align="center">
 
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://instagram.com/aditiutt_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -125,6 +138,9 @@ const developer = {
 </a>
 <a href="https://aditya-portofolio-silk.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>

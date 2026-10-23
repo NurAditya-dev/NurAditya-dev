@@ -67,13 +67,6 @@ const developer = {
 
 </div>
 
----
-
-
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurAditya-dev&theme=github_dark" />
-
-</div>
 
 ---
 

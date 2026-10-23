@@ -15,10 +15,6 @@
 
 <br/>
 
-<!-- PROFILE VIEWS BADGE -->
-<img src="https://img.shields.io/github/followers/NurAditya-dev?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers" />
-
-</div>
 
 ---
 
@@ -73,21 +69,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NurAditya-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurAditya-dev&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-<br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=NurAditya-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-
-<br/>
 
 <!-- ACTIVITY GRAPH -->
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurAditya-dev&theme=github_dark" />

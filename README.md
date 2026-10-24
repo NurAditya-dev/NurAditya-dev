@@ -21,19 +21,26 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const developer = {
-  name:       "Nur Aditya Saputra",
-  nickname:   "Adit",
-  location:   "📍 Surabaya, Indonesia",
-  bio:        "Passionate web developer who loves building web apps, experimenting with new technologies, and turning ideas into code 🚀",
-  currentFocus: "Building awesome web apps 🚀",
-  funFact:    "I drink ☕ and turn it into code",
+# Hi there, I'm Nur Aditya Saputra (Adit) 👋
 
-  askMeAbout:  ["Web Dev", "React", "Python", "UI/UX"],
-  learning:    ["TypeScript", "Next.js", "Docker"],
-  openTo:      ["Collaborations", "Freelance Projects", "Open Source"],
-};
-```
+📍 **Surabaya, Indonesia**
+
+> Passionate web developer who loves building web apps, experimenting with new technologies, and turning ideas into code 🚀
+
+---
+
+### 📌 About Me
+
+- 🎯 **Current Focus:** Building awesome web apps 🚀
+- ☕ **Fun Fact:** I drink coffee and turn it into code
+
+---
+
+### 🛠️ What I Do & Learn
+
+- 💬 **Ask me about:** `Web Dev`, `React`, `Python`, `UI/UX`
+- 🌱 **Currently learning:** `TypeScript`, `Next.js`
+- 🤝 **Open to:** Collaborations, Freelance Projects, and Open Source contributions
 
 ---
 

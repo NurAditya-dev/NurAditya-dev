@@ -13,14 +13,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%2F+TypeScript+Enthusiast;Python+Developer+%F0%9F%90%8D;React+%2F+Next.js+Builder;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/>
-
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```typescript
 # Hi there, I'm Nur Aditya Saputra (Adit) 👋
 
 📍 **Surabaya, Indonesia**
@@ -30,7 +28,6 @@
 ---
 
 ### 📌 About Me
-
 - 🎯 **Current Focus:** Building awesome web apps 🚀
 - ☕ **Fun Fact:** I drink coffee and turn it into code
 
@@ -74,25 +71,23 @@
 
 </div>
 
-
 ---
-
 
 ## 📫 Connect With Me
 
 <div align="center">
-<a href="https://instagram.com/aditiutt_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:nuradityasptra10@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://aditya-portofolio-silk.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/NurAditya-dev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
+  <a href="https://instagram.com/aditiutt_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nuradityasptra10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aditya-portofolio-silk.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/NurAditya-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---

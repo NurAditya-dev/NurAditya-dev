@@ -23,14 +23,13 @@
 
 📍 **Surabaya, Indonesia**
 
-> Passionate web developer who loves building web apps, experimenting with new technologies, and turning ideas into code 🚀
+> Passionate web developer who loves building web apps, experimenting with new technologies, I'm just a newbie here, nothing special yet. If you look at my tech stack, maybe I'm just exaggerating.
 
 ---
 
 ### 📌 About Me
 - 🎯 **Current Focus:** Building awesome web apps 🚀
 - ☕ **Fun Fact:** I drink coffee and turn it into code
-- I'm just a newbie here, nothing special. If you look at my tech stack, maybe I'm just exaggerating.
 
 ---
 

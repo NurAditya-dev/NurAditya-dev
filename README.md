@@ -30,6 +30,7 @@
 ### 📌 About Me
 - 🎯 **Current Focus:** Building awesome web apps 🚀
 - ☕ **Fun Fact:** I drink coffee and turn it into code
+- I'm just a newbie here, nothing special. If you look at my tech stack, maybe I'm just exaggerating.
 
 ---
 

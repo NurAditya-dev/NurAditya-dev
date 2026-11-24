@@ -1,6 +1,6 @@
 <div align="center">
 <!-- GIF -->
-<img width="100%" src="https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b" />
+<img width="100%" src="https://pixel-profile.vercel.app/api/github-stats?username=<NurAditya-dev>&theme=crt" />
 
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Hi%20there!%20I'm%20Adit%20👋&fontSize=40&fontColor=58a6ff&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descColor=8b949e&animation=fadeIn" />
@@ -108,7 +108,7 @@
 <div align="center">
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer&fontColor=58a6ff" />
+<img width="100%" src="https://github.com/user-attachments/assets/b67b134f-d988-4807-b61e-666b779a321b" />
 
 <p><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 

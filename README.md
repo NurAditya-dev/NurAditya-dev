@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff" />
 </p>
 
 ### 🗄️ Databases & Tools
